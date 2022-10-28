@@ -1,6 +1,6 @@
 # Hi there, I'm David 👋
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=davidbouckaert&show_icons=true&theme=radical"/>
+<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=davidbouckaert&show_icons=true&theme=radical"/>
 <img aling='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbouckaert&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
